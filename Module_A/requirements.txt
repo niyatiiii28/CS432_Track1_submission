@@ -3,3 +3,4 @@ numpy
 psutil
 graphviz
 jupyter
+pandas
